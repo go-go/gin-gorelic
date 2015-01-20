@@ -7,8 +7,8 @@ NewRelic middleware for gin-gonic framework.
 
 ```go
 import(
-	"github.com/gin-gonic/gin"
-	"github.com/brandfolder/gin-gorelic"
+	"github.com/go-go/gin"
+	"github.com/go-go/gin-gorelic"
 )
 
 func main(){
